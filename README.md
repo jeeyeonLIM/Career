@@ -11,7 +11,7 @@
 | 2018. 12 ~ 2019.01 | [제5회 L.POINT Big Data Competition](https://github.com/jeeyeonLIM/L.POINT) |Digital Trend Analyzer| 예선탈락 |
 | 2018.07 ~ 2018.08 | [제 16회 SAS 분석 챔피언십](https://github.com/jeeyeonLIM/SAS_championship)  |교통사고 구간 예측 및 인사이트 도출| 입선 | 
 
-## 인턴
+## 경력 사항
 | date | 회사명 | 업무 | 직위 |
 | :---: |:---:|:---:|:---:|
 | 2019.12 ~  | 네이버 웹툰 | SQL 데이터 추출 및 데이터 분석 | 인턴 | 
@@ -45,7 +45,11 @@
 | [텍스트마이닝](https://github.com/jeeyeonLIM/graduate_course/tree/master/Text%20Mining) | 텍스트 전처리, 감성분석, 모델링 | [Edwith-Python 병행](https://www.edwith.org/sogang_python) |
 | [생명보험론](https://github.com/jeeyeonLIM/graduate_course/tree/master/Life%20insurance%20statistics) | 보험 통계학,이자론,논문리뷰 | 지도교수님 논문 리뷰 및 발표 |
 
-## 책 리뷰
+> #### 4학기 (2019.09 ~ 2019.12)
+- 논문 : A study of the Application of Bivariate Weibull Distribution to Life Insurance
+
+
+## 책 리뷰 (Private 정리 중)
 - [Data Science Case Studyㅡ 비즈니스 활용 사례로 배우는 데이터 분석 :R]()
 - [데이터 분석의 힘]()
 - [데이터 읽기의 기술]()
