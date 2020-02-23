@@ -4,6 +4,19 @@
 - Bachelor of Science in Statistics ( 2013.03 ~ 2018.02 ) 
 - Master of Science in Statistics ( 2018.03 ~ 2020.02 )
 
+## 프로젝트
+| date | 공모전명 | 분석주제 | 결과 | 
+| :---: |:---:|:---:|:---:|
+| 2019.09 ~ 2019.11 | [2019 서울시 빅데이터 캠퍼스 공모전](https://github.com/jeeyeonLIM/Seoul-Metropolita-Goverment_Big-Data-Campus) | 카페 최적입지 선정을 위한 조건| 장려상 |
+| 2018. 12 ~ 2019.01 | [제5회 L.POINT Big Data Competition](https://github.com/jeeyeonLIM/L.POINT) |Digital Trend Analyzer| 예선탈락 |
+| 2018.07 ~ 2018.08 | [제 16회 SAS 분석 챔피언십](https://github.com/jeeyeonLIM/SAS_championship)  |교통사고 구간 예측 및 인사이트 도출| 입선 | 
+
+## 인턴
+| date | 회사명 | 업무 | 직위 |
+| :---: |:---:|:---:|:---:|
+| 2019.12 ~  | 네이버 웹툰 | SQL 데이터 추출 및 데이터 분석 | 인턴 | 
+| 2018.01 ~ 2018.02 | ETRI(한국전자통신연구원) | 측위 데이터 분석 | 인턴 | 
+| 2016.09 ~ 2016.12 | 리서치랩 | 마케팅 리서치(제네시스 SUV 페르소나 구축) | 인턴 |
 
 ## 대학원 수강 과목
 
@@ -32,19 +45,11 @@
 | [텍스트마이닝](https://github.com/jeeyeonLIM/graduate_course/tree/master/Text%20Mining) | 텍스트 전처리, 감성분석, 모델링 | [Edwith-Python 병행](https://www.edwith.org/sogang_python) |
 | [생명보험론](https://github.com/jeeyeonLIM/graduate_course/tree/master/Life%20insurance%20statistics) | 보험 통계학,이자론,논문리뷰 | 지도교수님 논문 리뷰 및 발표 |
 
-## 프로젝트
-| date | 공모전명 | 분석주제 | 결과 | 
-| :---: |:---:|:---:|:---:|
-| 2019.09 ~ 2019.11 | [2019 서울시 빅데이터 캠퍼스 공모전](https://github.com/jeeyeonLIM/Seoul-Metropolita-Goverment_Big-Data-Campus) | 카페 최적입지 선정을 위한 조건| 장려상 |
-| 2018. 12 ~ 2019.01 | [제5회 L.POINT Big Data Competition](https://github.com/jeeyeonLIM/L.POINT) |Digital Trend Analyzer| 예선탈락 |
-| 2018.07 ~ 2018.08 | [제 16회 SAS 분석 챔피언십](https://github.com/jeeyeonLIM/SAS_championship)  |교통사고 구간 예측 및 인사이트 도출| 입선 | 
-
-## 인턴
-| date | 회사명 | 업무 | 직위 |
-| :---: |:---:|:---:|:---:|
-| 2019.12 ~  | 네이버 웹툰 | SQL 데이터 추출 및 데이터 분석 | 인턴 | 
-| 2018.01 ~ 2018.02 | ETRI(한국전자통신연구원) | 측위 데이터 분석 | 인턴 | 
-| 2016.09 ~ 2016.12 | 리서치랩 | 마케팅 리서치(제네시스 SUV 페르소나 구축) | 인턴 |
-
 ## 책 리뷰
-- 정리 중 
+- [Data Science Case Studyㅡ 비즈니스 활용 사례로 배우는 데이터 분석 :R]()
+- [데이터 분석의 힘]()
+- [데이터 읽기의 기술]()
+- [데이터 분석을 위한 SQL 레시피]()
+
+
+
