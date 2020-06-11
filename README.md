@@ -1,6 +1,4 @@
 ## 임지연
-
-## 학위 과정
 - Bachelor of Science in Statistics ( 2013.03 ~ 2018.02 ) 
 - Master of Science in Statistics ( 2018.03 ~ 2020.02 )
 
