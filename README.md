@@ -9,6 +9,12 @@
 | 2018. 12 ~ 2019.01 | [제5회 L.POINT Big Data Competition](https://github.com/jeeyeonLIM/L.POINT) |Digital Trend Analyzer| 예선탈락 |
 | 2018.07 ~ 2018.08 | [제 16회 SAS 분석 챔피언십](https://github.com/jeeyeonLIM/SAS_championship)  |교통사고 구간 예측 및 인사이트 도출| 입선 | 
 
+
+| date | 공모전명 | 분석주제 | 결과 | 
+| :---: |:---:|:---:|:---:|
+
+
+
 ## 경력 사항
 | date | 회사명 | 업무 | 직위 |
 | :---: |:---:|:---:|:---:|
