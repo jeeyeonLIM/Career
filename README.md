@@ -53,12 +53,15 @@
 - 논문 : A study of the Application of Bivariate Weibull Distribution to Life Insurance
 
 
-## 책 리뷰 (Private 정리 중)
+## 책 리뷰 정리
+- [파이썬 머신러닝 완벽 가이드](https://github.com/jeeyeonLIM/Python_MachineLearning_Guide)
+- [데이터 분석의 힘](https://github.com/jeeyeonLIM/Power_of_Data_Analysis)
+- [데이터 분석을 위한 SQL 레시피](https://github.com/jeeyeonLIM/SQL_Recipe_for_Data_Analysis)
+- [데이터 읽기의 기술](https://github.com/jeeyeonLIM/the_art_of_reading_data)
 - [Data Science Case Studyㅡ 비즈니스 활용 사례로 배우는 데이터 분석 :R]()
-- [데이터 분석의 힘]()
-- [데이터 읽기의 기술]()
-- [데이터 분석을 위한 SQL 레시피]()
 
-
+## Python 코딩 공부
+- [Issue 쌓아가기](https://github.com/jeeyeonLIM/coding_test)
+- [점투파 정리](https://github.com/jeeyeonLIM/coding_test/blob/master/%EC%A0%90%ED%88%AC%ED%8C%8C%20%EC%A0%95%EB%A6%AC.ipynb)
 
 
