@@ -56,7 +56,7 @@
 | [데이터 분석의 힘](https://github.com/jeeyeonLIM/Power_of_Data_Analysis)| 데이터 분석의 목적에 대해 학습 | 
 | [데이터 분석을 위한 SQL 레시피](https://github.com/jeeyeonLIM/SQL_Recipe_for_Data_Analysis)| sql로 하는 데이터 분석, 문법 정리 | 
 | [데이터 읽기의 기술](https://github.com/jeeyeonLIM/the_art_of_reading_data)| 심리 & 데이터분석 | 
-| [Data Science Case Studyㅡ 비즈니스 활용 사례로 배우는 데이터 분석 :R]()| | 
+| [비즈니스 활용 사례로 배우는 데이터 분석 :R]()| Data Science Case Study | 
 
 ## Python 코딩 공부
 - [Issue 쌓아가기](https://github.com/jeeyeonLIM/coding_test)
