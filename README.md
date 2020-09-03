@@ -2,7 +2,8 @@
 - Bachelor of Science in Statistics ( 2013.03 ~ 2018.02 ) 
 - Master of Science in Statistics ( 2018.03 ~ 2020.02 )
 
-## 프로젝트
+
+## 공모전 
 | date | 공모전명 | 분석주제 | 결과 | 
 | :---: |:---:|:---:|:---:|
 | 2019.09 ~ 2019.11 | [2019 서울시 빅데이터 캠퍼스 공모전](https://github.com/jeeyeonLIM/Seoul-Metropolita-Goverment_Big-Data-Campus) | 카페 최적입지 선정을 위한 조건| 장려상 |
@@ -48,12 +49,14 @@
 - 논문 : A study of the Application of Bivariate Weibull Distribution to Life Insurance
 
 
-## 책 리뷰 정리
-- [파이썬 머신러닝 완벽 가이드](https://github.com/jeeyeonLIM/Python_MachineLearning_Guide)
-- [데이터 분석의 힘](https://github.com/jeeyeonLIM/Power_of_Data_Analysis)
-- [데이터 분석을 위한 SQL 레시피](https://github.com/jeeyeonLIM/SQL_Recipe_for_Data_Analysis)
-- [데이터 읽기의 기술](https://github.com/jeeyeonLIM/the_art_of_reading_data)
-- [Data Science Case Studyㅡ 비즈니스 활용 사례로 배우는 데이터 분석 :R]()
+## 책 리뷰 및 코드 정리하기
+| 도서명 | 학습 내용 | 
+|:--------:|:--------:|
+| [파이썬 머신러닝 완벽 가이드](https://github.com/jeeyeonLIM/Python_MachineLearning_Guide) | 파이썬으로 하는 데이터 분석, 추천시스템 공부 | 
+| [데이터 분석의 힘](https://github.com/jeeyeonLIM/Power_of_Data_Analysis)| 데이터 분석의 목적에 대해 학습 | 
+| [데이터 분석을 위한 SQL 레시피](https://github.com/jeeyeonLIM/SQL_Recipe_for_Data_Analysis)| sql로 하는 데이터 분석, 문법 정리 | 
+| [데이터 읽기의 기술](https://github.com/jeeyeonLIM/the_art_of_reading_data)| 심리 & 데이터분석 | 
+| [Data Science Case Studyㅡ 비즈니스 활용 사례로 배우는 데이터 분석 :R]()| | 
 
 ## Python 코딩 공부
 - [Issue 쌓아가기](https://github.com/jeeyeonLIM/coding_test)
