@@ -50,7 +50,8 @@
 
 ## Kaggle Study
 - [정리 링크](https://github.com/jeeyeonLIM/kaggle_study)
-- 아래에 
+- 아래에 정리
+
 | date | 주제 | 분석 내용 | 느낀점 |
 | :---: |:---:|:---:|:---:|
 | 2018.10.01 ~ 2018.10.28 | [Doodle Recognition](https://www.kaggle.com/c/quickdraw-doodle-recognition) | [낙서 분류하기](https://github.com/jeeyeonLIM/Graduate_Course/tree/master/Financial%20engineering/Kaggle_Doodle_Recognition_Challenge) | CNN 학습 | 
